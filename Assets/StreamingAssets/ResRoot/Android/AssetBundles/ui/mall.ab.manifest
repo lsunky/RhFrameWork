@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3179586185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: adcfb1301fc8d0930090137ff2d85dc7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ResRoot/UI/mall/photo_mall_1920x778.png
+- Assets/ResRoot/UI/mall/mall_misc_table_1920x434.png
+- Assets/ResRoot/UI/mall/mall_icon_bought.png
+- Assets/ResRoot/UI/mall/mall_misc_figure01_342x342.png
+Dependencies: []

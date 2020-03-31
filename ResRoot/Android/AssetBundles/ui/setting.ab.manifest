@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 611094145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76f46b9a2be2a6350a4ac9e7e35d8ae8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ResRoot/UI/setting/setting_control_switch_close_248x68.png
+- Assets/ResRoot/UI/setting/setting_icon_hmd.png
+- Assets/ResRoot/UI/setting/setting_icon_zhdl.png
+- Assets/ResRoot/UI/setting/setting_icon_jyfk.png
+- Assets/ResRoot/UI/setting/setting_icon_dice.png
+- Assets/ResRoot/UI/setting/setting_control_switch_open_248x68.png
+- Assets/ResRoot/UI/setting/setting_icon_yxgg.png
+- Assets/ResRoot/UI/setting/setting_button_edit_normal.png
+- Assets/ResRoot/UI/setting/setting_icon_shezhi.png
+- Assets/ResRoot/UI/setting/setting_photo_st_1552x854.png
+- Assets/ResRoot/UI/setting/setting_icon_sjbd.png
+- Assets/ResRoot/UI/setting/setting_icon_jhm.png
+- Assets/ResRoot/UI/setting/setting_button_edit_click.png
+- Assets/ResRoot/UI/setting/setting_icon_dqgz.png
+- Assets/ResRoot/UI/setting/setting_icon_fwtk.png
+- Assets/ResRoot/UI/setting/setting_icon_sszy.png
+- Assets/ResRoot/UI/setting/setting_control_switch_button.png
+- Assets/ResRoot/UI/setting/setting_icon_zhh.png
+Dependencies: []

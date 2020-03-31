@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1612681605
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/mall.ab
+      Dependencies: {}
+    Info_1:
+      Name: ui/setting.ab
+      Dependencies: {}
+    Info_2:
+      Name: icon/buff.ab
+      Dependencies: {}
+    Info_3:
+      Name: icon/item.ab
+      Dependencies: {}
+    Info_4:
+      Name: prefab/loginwindow.ab
+      Dependencies: {}

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 291597088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c39d5851258fc8dbf8c8575ab4f54b11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ResRoot/Icon/04.Buff/buff_FS_HuoQiuShu.png
+Dependencies: []

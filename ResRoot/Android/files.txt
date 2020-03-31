@@ -1,0 +1,7 @@
+AssetBundles/icon/buff.ab|3|b9afd270edb54f3f8510bca5b3497ec6
+AssetBundles/icon/item.ab|41|c6cf4b52557e949cf722a10bdd73d73d
+AssetBundles/prefab/loginwindow.ab|7|8307b57ab697f92e7142ab38c955c28c
+AssetBundles/ui/mall.ab|681|55246f1cc1139f98db5f2bf67335e28d
+AssetBundles/ui/setting.ab|284|ae6f10afb2aba2374f758b3a4f23a2c7
+AssetBundles/AssetBundles|2|68ee5126ce17346f8ec7e88835634099
+AssetBundles/FilePath2BundleList.txt|2|4c34ca2ed52ccf2ad874ff3b57bf5256

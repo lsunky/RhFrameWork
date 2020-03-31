@@ -1,0 +1,9 @@
+本次热更需要下载量为:   11
+新增列表:
+AssetBundles/prefab/loginwindow.ab|7
+改变列表:
+AssetBundles/AssetBundles|2
+AssetBundles/FilePath2BundleList.txt|2
+删除列表:
+AssetBundles/prefab/tempimg1.ab|3
+AssetBundles/prefab/tempimg5.ab|3

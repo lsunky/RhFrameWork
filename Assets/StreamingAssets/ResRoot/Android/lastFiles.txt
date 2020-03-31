@@ -1,0 +1,8 @@
+AssetBundles/icon/buff.ab|3|b9afd270edb54f3f8510bca5b3497ec6
+AssetBundles/icon/item.ab|41|c6cf4b52557e949cf722a10bdd73d73d
+AssetBundles/prefab/tempimg1.ab|3|e148ad8dc3be129f91f4ba4dcf89c9c3
+AssetBundles/prefab/tempimg5.ab|3|96e35e87f9a9008a0afa5f2a586e5694
+AssetBundles/ui/mall.ab|681|55246f1cc1139f98db5f2bf67335e28d
+AssetBundles/ui/setting.ab|284|ae6f10afb2aba2374f758b3a4f23a2c7
+AssetBundles/AssetBundles|2|8c71905d3b364c3bd98bfc82c8dd2c85
+AssetBundles/FilePath2BundleList.txt|2|ff7d179d1e0dbac7fa5b375e5fb7a4bd

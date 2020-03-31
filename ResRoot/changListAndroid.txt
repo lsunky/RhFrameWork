@@ -1,0 +1,4 @@
+本次热更需要下载量为:   9
+改变列表:
+AssetBundles/AssetBundles|2
+AssetBundles/prefab/loginwindow.ab|7
